@@ -3,7 +3,7 @@
 This project is a web application that fetches data from JSONPlaceholder API and displays it using Material UI for navigation and styling. The application demonstrates the integration of an external API and the use of Material UI components for a responsive and modern user interface.
 
 
-#Features
+## Features
 
 🔸 Fetches data from JSONPlaceholder API
 
@@ -14,7 +14,7 @@ This project is a web application that fetches data from JSONPlaceholder API and
 🔸 Responsive design for various screen sizes
 
 
-#Technologies Used
+## Technologies Used
 
 🔹 API: JSONPlaceholder (https://jsonplaceholder.typicode.com/)
 
