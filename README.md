@@ -4,6 +4,7 @@ This project is a web application that fetches data from JSONPlaceholder API and
 
 
 Features
+
 🔸 Fetches data from JSONPlaceholder API
 🔸 Displays data in a user-friendly format
 🔸 Utilizes Material UI for navigation and styling
@@ -11,6 +12,7 @@ Features
 
 
 Technologies Used
+
 🔹 API: JSONPlaceholder (https://jsonplaceholder.typicode.com/)
 🔹 Frontend Library: ReactJs
 🔹 UI Framework: Material UI
